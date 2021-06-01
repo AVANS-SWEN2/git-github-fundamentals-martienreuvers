@@ -1,3 +1,5 @@
+Gebruiker
+Martien Reuvers - martienreuvers - mt.reuvers@student.avans.nl
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
